@@ -1,0 +1,12 @@
+  [
+    {
+      "id" : 1,
+      "tittle": "Post number one",
+      "text": "Some text for post number one"
+    },
+    {
+      "id": 2,
+      "tittle": "Post number two",
+      "text": "Some text for post number two"
+    }
+  ]
